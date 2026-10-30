@@ -1,121 +1,121 @@
 ---
 name: smartphone-launch-imaging-analysis
-description: Researches and produces evidence-based, visually polished smartphone launch and imaging analysis pages. Use for new-phone launch interpretation, camera-system analysis, multi-model comparisons, creator-review synthesis, third-party cross-checking, competitor implications, or an interactive HTML report for Apple, Xiaomi, OPPO, vivo, Samsung, Honor, Huawei and other phone brands.
+description: 调研并制作有证据支撑、视觉精美的手机发布会与影像分析页面。适用于苹果、小米、OPPO、vivo、三星、荣耀、华为等品牌的新机发布解读、相机系统分析、多机型对比、创作者评测综合分析、第三方交叉核验、竞品启示分析，以及交互式 HTML 报告制作。
 ---
 
-# Smartphone Launch Imaging Analysis
+# 手机发布会与影像分析
 
-Create a current, source-grounded analysis of a smartphone launch with special depth on imaging. The deliverable may be a research brief or a polished interactive HTML page. Adapt the framework to the product instead of forcing every phone into the same template.
+围绕手机发布会，制作信息及时、来源可靠的分析，重点深入解读影像能力。交付物可以是研究简报，也可以是精美的交互式 HTML 网页。根据产品特点调整分析框架，不要让所有手机套用同一模板。
 
-## Use When
+## 适用场景
 
-- A user asks to interpret a newly launched or upcoming smartphone, especially its camera system.
-- A user wants official claims, specifications, creator reviews, third-party interpretations, and industry implications combined.
-- Multiple models need to be compared without turning the page into a specification dump.
-- A launch analysis should become a polished light-theme interactive webpage.
-- A previous launch-day hands-on summary needs to be updated after full reviews are released.
+- 用户要求解读刚发布或即将发布的手机，尤其是其相机系统。
+- 用户希望综合官方主张、规格参数、创作者评测、第三方解读和行业启示。
+- 需要比较多个机型，同时避免把页面做成单纯的参数堆砌。
+- 需要将发布会分析制作成精美的亮色交互网页。
+- 完整评测发布后，需要更新此前的发布会当日上手总结。
 
-## Don't Use When
+## 不适用场景
 
-- The user only wants a simple spec lookup; answer directly.
-- The user asks only for shopping recommendations; use a shopping workflow.
-- The device is old and the task is historical rather than launch/review analysis; use ordinary research unless this framework still adds value.
-- Reliable primary or review sources do not yet exist; clearly label what is confirmed and what remains unavailable.
+- 用户只想查询简单参数：直接回答即可。
+- 用户只想获得购买建议：采用购物推荐流程。
+- 设备已发布较久，任务侧重历史研究而非发布会或评测分析：通常采用常规研究流程，除非本框架仍能提供价值。
+- 尚无可靠的一手资料或评测来源：明确标注哪些内容已确认、哪些内容仍缺失。
 
-## Workflow
+## 工作流程
 
-1. Establish scope and freshness.
-   - Identify brand, models, launch date, region, current date, and whether full reviews are already available.
-   - Treat launch-day hands-on content and later full reviews as different evidence classes.
-2. Research primary sources first.
-   - Search official product pages, newsroom/release posts, technical specifications, camera feature pages, and official launch material.
-   - Extract official promotional wording when it is distinctive and useful.
-   - Do not invent a cleaner slogan or feature name when the manufacturer already has one.
-3. Build a normalized imaging fact sheet.
-   - Record sensor/resolution, equivalent focal lengths, aperture, stabilization, zoom, macro, front camera, video formats/frame rates, log/RAW, audio, tracking, computational photography, and special form-factor features.
-   - Separate physical optics, sensor/hardware, algorithms, controls, video workflow, audio, and interaction.
-4. Compare models by role, not by raw table size.
-   - Explain what each model is for and what imaging capabilities materially differ.
-   - If there is one model, omit forced comparison sections.
-   - If a foldable exists, include form factor as part of the imaging workflow.
-5. Extract the official imaging story.
-   - Preserve meaningful official phrases.
-   - Cover all material official imaging features; do not omit less flashy video/audio features merely because they are below the fold.
-   - Distinguish official claims from independent validation.
-6. Research creators and independent reviewers.
-   - Prefer the newest full review over launch-day hands-on content.
-   - Search Bilibili, Weibo, YouTube, creator pages, reputable media summaries, and independent reviews as appropriate to the market.
-   - For each creator capture: publication date, content type, tested model, main conclusion, imaging findings, non-imaging findings that affect purchase/use, caveats, and original link.
-7. Cross-check creator claims.
-   - Use reputable third-party reporting or independent tests to explain, corroborate, qualify, or challenge notable claims.
-   - Never silently turn a third party's interpretation into the creator's own words.
-   - Distinguish related technical phenomena precisely, e.g. ghosting versus flare, optical zoom versus optical-quality crop.
-8. Synthesize after full reviews.
-   - Explicitly explain what changed from launch-day attention to full-review conclusions.
-   - Identify areas of multi-source agreement, disagreement, and still-unverified behavior.
-   - Do not manufacture a consensus when sources test different conditions.
-9. Derive industry implications.
-   - Analyze optics, sensors, computational photography, video, audio, professional workflow, interaction, and competitor direction.
-   - For Android/competitor discussion, compare concrete technical strategies rather than declaring a winner.
-10. Design the page around information hierarchy.
-   - Use a centered, restrained hero. Avoid unnecessary hero photography when typography and subtle gradients work better.
-   - Avoid endless equal-sized card grids.
-   - Use tabs or a left-side navigator for large feature families.
-   - Make core selling points visually dominant; compress secondary features.
-   - Add restrained hover/click micro-interactions and relevant icons/diagrams/images.
-   - Keep source lists simple, vertical, numbered, and easy to audit.
-11. Verify before delivery.
-   - Check every important number against a source.
-   - Check creator links and dates.
-   - Check that current full reviews replaced stale hands-on summaries where appropriate.
-   - Check responsive behavior, tab interactions, headings, overflow, and source visibility.
-   - Remove meta-copy about how the page was researched or built.
+1. 明确范围与信息时效。
+   - 确认品牌、机型、发布日期、地区、当前日期，以及完整评测是否已经发布。
+   - 将发布会当日上手内容与后续完整评测划分为不同的证据类别。
+2. 优先研究一手来源。
+   - 搜索官方产品页、新闻稿或发布公告、技术规格、相机功能页和官方发布会资料。
+   - 当官方宣传表述具有辨识度且有助于分析时，提取并保留其原有措辞。
+   - 厂商已有宣传语或功能名称时，不要自行编造一个看似更简洁的替代名称。
+3. 建立统一格式的影像事实清单。
+   - 记录传感器与分辨率、等效焦距、光圈、防抖、变焦、微距、前置相机、视频格式与帧率、Log/RAW、音频、追踪、计算摄影和特殊形态相关功能。
+   - 分别梳理物理光学、传感器与硬件、算法、操控、视频工作流、音频和交互。
+4. 按机型定位开展比较，不以表格规模为目标。
+   - 解释各机型面向的用途，以及影像能力上的实质差异。
+   - 只有一款机型时，省略牵强的对比章节。
+   - 存在折叠屏机型时，将产品形态纳入影像工作流分析。
+5. 提炼官方影像叙事。
+   - 保留有意义的官方表述。
+   - 覆盖所有重要的官方影像功能，不要仅因视频或音频功能位于页面较下方、宣传不够醒目就将其遗漏。
+   - 区分官方主张与独立验证结果。
+6. 研究创作者与独立评测。
+   - 优先采用最新完整评测，而非发布会当日上手内容。
+   - 根据目标市场，搜索 B站、微博、YouTube、创作者主页、可靠媒体总结及独立评测。
+   - 为每位创作者记录：发布日期、内容类型、测试机型、主要结论、影像发现、影响购买或使用的非影像发现、局限与注意事项，以及原始链接。
+7. 交叉核验创作者观点。
+   - 使用可靠的第三方报道或独立测试，对值得关注的观点进行解释、佐证、限定或质疑。
+   - 不要将第三方的解读悄然改写成创作者本人的表述。
+   - 准确区分相关技术现象，例如鬼影与眩光、光学变焦与光学品质裁切。
+8. 在完整评测发布后进行综合分析。
+   - 明确解释关注点如何从发布会当日的亮点转向完整评测后的结论。
+   - 找出多个来源的一致结论、分歧，以及仍未验证的表现。
+   - 来源采用不同测试条件时，不要人为制造共识。
+9. 提炼行业启示。
+   - 分析光学、传感器、计算摄影、视频、音频、专业工作流、交互和竞品发展方向。
+   - 讨论安卓阵营或其他竞品时，比较具体技术策略，不要简单宣布谁胜谁负。
+10. 围绕信息层级设计页面。
+   - 使用居中、克制的首屏。当文字排版和柔和渐变已能满足表达需求时，避免添加不必要的首屏照片。
+   - 避免无休止地堆叠同尺寸卡片网格。
+   - 对较大的功能分类使用标签页或左侧导航。
+   - 让核心卖点在视觉上突出，压缩次要功能的展示篇幅。
+   - 添加克制的悬停与点击微交互，以及相关图标、示意图或图片。
+   - 来源列表保持简洁，采用纵向编号排列，方便核查。
+11. 交付前完成核验。
+   - 根据来源核对所有重要数值。
+   - 核对创作者链接和发布日期。
+   - 在适当情况下，确认已用当前完整评测替换过时的上手总结。
+   - 检查响应式布局、标签页交互、标题、内容溢出和来源可见性。
+   - 删除介绍页面如何研究或制作的说明性文案。
 
-## Rules
+## 基本规则
 
-- Always search the web for current launch/review tasks. Freshness is part of correctness.
-- Prefer primary manufacturer sources for official specifications and feature naming.
-- Never describe a creator as having concluded something unless the source supports it.
-- Clearly label third-party interpretations as third-party interpretations.
-- Separate facts, manufacturer claims, reviewer observations, and synthesis.
-- Do not treat a press release as independent evidence.
-- Do not omit official video/audio features simply because camera hardware is more prominent.
-- Do not write meta-copy such as “this page organizes”, “we verified”, “information was collected from”, or implementation commentary inside the final webpage.
-- Avoid visual fatigue: do not render every fact as an equal card.
-- Use progressive disclosure for dense content: tabs, side navigation, accordions, expandable evidence, or layered cards.
-- Preserve whitespace and typographic hierarchy. Prefer a light, premium editorial style unless the user requests otherwise.
-- Keep creator-review summaries comprehensive enough to include methodology/context, not just a one-sentence verdict.
-- When a full review exists, demote launch-day hands-on content to supporting context.
-- When sources disagree, explain test conditions and uncertainty instead of forcing one verdict.
-- For competitor implications, discuss technical direction and tradeoffs, not brand cheerleading.
-- Every external factual claim in a research answer should be traceable to a source.
-- For the HTML artifact, include working source links and creator links, but keep the visible source section clean.
-- If the page includes multiple product families, treat them as one launch story while still explaining their distinct imaging roles.
-- Adapt section count to the device. Do not force a foldable section onto a slab phone or a telephoto section onto a device without one.
+- 处理当前发布会或评测任务时，始终联网搜索。信息时效是准确性的一部分。
+- 官方规格与功能命名优先采用厂商一手来源。
+- 来源没有支持时，不要声称某位创作者得出了某个结论。
+- 明确将第三方解读标注为第三方解读。
+- 区分事实、厂商主张、评测者观察和综合分析。
+- 不要把新闻稿当作独立证据。
+- 不要仅因相机硬件更醒目，就遗漏官方视频或音频功能。
+- 最终网页中不要出现“本页面整理了”“我们已核验”“信息采集自”等制作过程说明，也不要加入实现细节评论。
+- 避免视觉疲劳，不要将每条事实都渲染成同等权重的卡片。
+- 对密集内容采用渐进式展示，例如标签页、侧边导航、折叠面板、可展开证据或分层卡片。
+- 保持留白与字体层级。除非用户另有要求，优先采用亮色、有质感的编辑式排版。
+- 创作者评测摘要应足够完整，包含测试方法与背景，不要只有一句结论。
+- 已有完整评测时，将发布会当日上手内容降为辅助背景。
+- 来源意见不一致时，解释测试条件与不确定性，不要强行得出单一结论。
+- 分析竞品启示时，讨论技术方向与取舍，不要为品牌站队。
+- 研究回答中涉及外部事实的每项主张，都应能够追溯到来源。
+- HTML 交付物需包含可用的来源链接与创作者链接，同时保持可见来源区域简洁。
+- 页面包含多个产品家族时，将其作为统一的发布会叙事来组织，同时解释各自不同的影像定位。
+- 根据设备特点调整章节数量。不要给直板手机硬加折叠屏章节，也不要给没有长焦的设备硬加长焦章节。
 
-## Examples
+## 示例
 
-- “解读小米下一代 Ultra 的影像升级，做成网页” → research official + creator + independent sources, emphasize sensor/telephoto/color/video, then generate the interactive report.
-- “更新 vivo 新旗舰完整测评” → locate newer full reviews, replace stale launch-day hands-on summaries, add cross-source synthesis and what changed after testing.
-- “对比 Galaxy Ultra 和 Pro Max 的影像方向” → compare documented optical, computational, video, workflow, and interaction strategies without declaring an overall winner.
-- “分析一款新折叠屏手机” → add folding posture, external-screen preview, rear-camera selfie, multitasking/software adaptation, and durability/ergonomics evidence where available.
+- “解读小米下一代 Ultra 的影像升级，做成网页” → 研究官方、创作者与独立来源，重点分析传感器、长焦、色彩与视频，再生成交互式报告。
+- “更新 vivo 新旗舰完整测评” → 查找更新的完整评测，替换过时的发布会当日上手总结，补充跨来源综合分析，以及实测后认识发生的变化。
+- “对比 Galaxy Ultra 和 Pro Max 的影像方向” → 比较有资料支持的光学、计算摄影、视频、工作流与交互策略，不宣布整体胜负。
+- “分析一款新折叠屏手机” → 在资料可用时，补充折叠姿态、外屏预览、后置自拍、多任务与软件适配，以及耐用性和人体工学方面的证据。
 
-## Edge Cases
+## 特殊情况处理
 
-- Full reviews are embargoed: use official material + hands-on content, label the evidence stage, and avoid pretending long-term conclusions exist.
-- Creator content is only discoverable through a search page: link the search result only as a fallback and avoid attributing details that were not verified.
-- A third-party article paraphrases a creator: attribute the interpretation to the third party unless the original creator source confirms it.
-- Regional specs differ: state the market/region and do not merge specifications silently.
-- Marketing terms are ambiguous: quote or paraphrase the official term, then explain the underlying technical behavior separately.
-- A claimed camera improvement depends on conditions: preserve those conditions, especially aperture, focal length, light direction, frame rate, stabilization mode, and software version.
-- There are too many features for one viewport: use navigation/tabs and visual hierarchy rather than shrinking all cards equally.
+- 完整评测尚受保密期限制：使用官方资料与上手内容，标注证据所处阶段，不要假装已有长期使用结论。
+- 只能通过搜索页面找到创作者内容：仅在没有更好选择时链接搜索结果，不要归纳或引用未经核实的细节。
+- 第三方文章转述了创作者观点：除非创作者原始来源确认，否则将相关解读归属于第三方。
+- 不同地区的规格存在差异：注明市场或地区，不要悄然合并规格。
+- 营销术语含义模糊：引用或转述官方术语，再单独解释其背后的技术表现。
+- 所宣称的影像提升依赖特定条件：保留这些条件，尤其是光圈、焦距、光线方向、帧率、防抖模式和软件版本。
+- 功能过多，单屏无法容纳：使用导航、标签页和视觉层级，不要把所有卡片等比例缩小。
 
-## References
+## 参考资料
 
-- See [references/research-method.md](references/research-method.md) for source priority, freshness, and verification.
-- See [references/imaging-analysis-framework.md](references/imaging-analysis-framework.md) for the technical camera-analysis model.
-- See [references/creator-review-framework.md](references/creator-review-framework.md) for creator and third-party synthesis.
-- See [references/web-design-system.md](references/web-design-system.md) for the interactive webpage design language.
-- See [references/page-structure.md](references/page-structure.md) for adaptive information architecture.
-- Use [assets/report-template.html](assets/report-template.html) as a neutral starting shell when generating a standalone webpage.
-- Run `scripts/validate_package.py` for basic package checks.
+- 来源优先级、信息时效与核验方法：参阅[研究方法](references/research-method.md)。
+- 相机技术分析模型：参阅[影像分析框架](references/imaging-analysis-framework.md)。
+- 创作者观点与第三方资料的综合分析：参阅[创作者评测框架](references/creator-review-framework.md)。
+- 交互网页的设计语言：参阅[网页设计规范](references/web-design-system.md)。
+- 自适应信息架构：参阅[页面结构](references/page-structure.md)。
+- 生成独立网页时，使用[报告模板](assets/report-template.html)作为中性的起始框架。
+- 运行 `scripts/validate_package.py`，执行基础技能包检查。
